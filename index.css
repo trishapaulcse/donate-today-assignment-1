@@ -1,0 +1,11 @@
+.header-section {
+  background-image: url("images/donation2.jpg");
+}
+.button-color {
+  background-image: linear-gradient(orange, tomato);
+  text-decoration: none;
+
+  padding: 10px 40px;
+  border-radius: 3px;
+  color: white;
+}
